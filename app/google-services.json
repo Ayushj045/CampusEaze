@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356870632781",
+    "project_id": "campuseaze",
+    "storage_bucket": "campuseaze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356870632781:android:baadada17e5536ce8eb304",
+        "android_client_info": {
+          "package_name": "com.ayush.campuseaze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr4aWR00LCQKKRV-yCnuTombJqaTxKGBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
