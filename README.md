@@ -39,7 +39,7 @@ Here are some screenshots from the app:
     <td><img src="./images/SplashFlat.jpeg" alt="Splash Flat" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="./images/SplashLaundary.jpeg" alt="Splash Laundry" width="250"/></td>
+    <td><img src="./images/SplashLaundry.jpeg" alt="Splash Laundry" width="250"/></td>
     <td><img src="./images/SplashFinish.jpeg" alt="Splash Finish" width="250"/></td>
     <td><img src="./images/loginScreen.png" alt="Login Screen" width="250"/></td>
   </tr>
