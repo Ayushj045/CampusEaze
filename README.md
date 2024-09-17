@@ -34,19 +34,19 @@ Here are some screenshots from the app:
 
 <table>
   <tr>
-    <td><img src="./images/Start.jpeg" alt="Start" width="250"/></td>
-    <td><img src="./images/SplashWelcome.jpeg" alt="Splash Welcome" width="250"/></td>
-    <td><img src="./images/SplashFlat.jpeg" alt="Splash Flat" width="250"/></td>
+    <td><img src="./images/Start.jpeg" alt="Start" width="300" height="560"/></td>
+    <td><img src="./images/SplashWelcome.jpeg" alt="Splash Welcome" width="300" height="560"/></td>
+    <td><img src="./images/SplashFlat.jpeg" alt="Splash Flat" width="300" height="560"/></td>
   </tr>
   <tr>
-    <td><img src="./images/SplashLaundry.jpeg" alt="Splash Laundry" width="250"/></td>
-    <td><img src="./images/SplashFinish.jpeg" alt="Splash Finish" width="250"/></td>
-    <td><img src="./images/loginScreen.png" alt="Login Screen" width="250"/></td>
+    <td><img src="./images/SplashLaundry.jpeg" alt="Splash Laundry" width="300" height="560"/></td>
+    <td><img src="./images/SplashFinish.jpeg" alt="Splash Finish" width="300" height="560"/></td>
+    <td><img src="./images/loginScreen.png" alt="Login Screen" width="300" height="560"/></td>
   </tr>
   <tr>
-    <td><img src="./images/Distance&Rating.jpeg" alt="Distance & Rating" width="250"/></td>
-    <td><img src="./images/ss.png" alt="Detail Page" width="250"/></td>
-    <td><img src="./images/su.jpeg" alt="Sign up" width="250"/></td>
+    <td><img src="./images/Distance&Rating.jpeg" alt="Distance & Rating" width="300" height="560"/></td>
+    <td><img src="./images/ss.png" alt="Detail Page" width="300" height="560"/></td>
+    <td><img src="./images/su.jpeg" alt="Sign up" width="300" height="560"/></td>
     <td></td>
   </tr>
 </table>
