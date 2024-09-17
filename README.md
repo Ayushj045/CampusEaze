@@ -28,7 +28,7 @@ CampusEase is an application designed to assist students in finding nearby PGs, 
     [Firebase Documentation](https://firebase.google.com/docs/auth)
 
     
-## Screenshots
+## App Screenshots
 
 Here are some screenshots from the app:
 
