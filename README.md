@@ -45,7 +45,7 @@ Here are some screenshots from the app:
   </tr>
   <tr>
     <td><img src="./images/Distance&Rating.jpeg" alt="Distance & Rating" width="250"/></td>
-    <td><img src="./images/DetailPg.png" alt="Detail Page" width="250"/></td>
+    <td><img src="./images/ss.png" alt="Detail Page" width="250"/></td>
     <td></td>
   </tr>
 </table>
